@@ -25,3 +25,6 @@ Or just paste the code from here: [bot](exercises/ex2/BasicLuisDialog.csx)
 
 here is how it works:
 [datetime](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-reference-prebuilt-datetimev2)
+
+## And let's train a custom vision
+Let's see it [here](CustomVision.md)

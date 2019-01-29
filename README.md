@@ -1,6 +1,16 @@
 # CognitiveLab
 Building the Future - Cognitive Lab
 
+Access to the machines
+User: btflabxx (where xx goes from 00 to 29)
+Password: chave@123
+
+
+Azure Account
+User: btflabxx@outlook.com (where xx goes from 00 to 29)
+Password: BTFMicrosoft2019
+
+
 ## Adding inteligence to a simple bot
 
 # We're going to start with a simple bot and just start adding stuff to it - LUIS and Custom Vision
